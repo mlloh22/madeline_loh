@@ -2,21 +2,26 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: mlloh22@yahoo.com.sg 
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/madeline-loh-0297b552//) 
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/mlloh22/madeline_loh/main/image/Madeline%20-%20Copy.png)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+Sales operations professional with more than 15 years in the semiconductor industry and 8 years in the IT industry. Proven expertise in:
+
+• Sales operation, channel and programmatic marketing support in APAC countries.
+• Pipeline Revenue forecast and inventory management.
+• Sound understanding of sales, order management and fulfillment processes.
+• IT savvy with strong skills in Excel, data management and CRM systems including Salesforce.com and MSX D365.
+• Strong in business process development, system rollouts and implementation..
 
 
 <!-- Add link to the sections -->
