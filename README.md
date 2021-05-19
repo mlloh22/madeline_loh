@@ -11,8 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-<![alt text](https://raw.githubusercontent.com/mlloh22/madeline_loh/main/image/Madeline%20-%20Copy.png)>
-!img src="https://raw.githubusercontent.com/mlloh22/madeline_loh/main/image/Madeline%20-%20Copy.png" width=20% height=20%>
+![alt text](https://raw.githubusercontent.com/mlloh22/madeline_loh/main/image/Madeline%20-%20Copy.png), width=20% height=20%
 <!-- Add your details -->
 
 Sales operations professional with more than 15 years in the semiconductor industry and 8 years in the IT industry. Proven expertise in:
